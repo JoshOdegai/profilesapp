@@ -11,3 +11,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </Authenticator>
   </React.StrictMode>
 );
+//Adding a comment
